@@ -1,0 +1,166 @@
+body {
+	font-family: 'Montserrat', 'Roboto' ,sans-serif;
+}
+
+
+body .default {
+	font-size: 15px;
+}
+
+
+/**
+.jumbotron {
+	background-color: #ffffff;
+}
+
+.parallax {
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+**/
+
+.navbar-brand
+{
+    position: relative;
+    background: url(img/logo.png);
+    width: 300px;
+    height: 70px;
+    left: 15px;
+}
+
+.navbar-light .navbar-nav .nav-link {
+	font-size: 16px;
+}
+
+.navbar-light .navbar-nav .nav-link:hover {
+	color: rgb(0, 82, 204);
+	font-weight:bold;
+}
+
+#intro .intro-img {
+    width: 50%;
+    float: right;
+}
+
+#intro {
+	padding: 200px;
+}
+
+#intro .intro-info {
+    width: 50%;
+    float: left;
+}
+
+.intro-title{
+
+}
+
+.intro-subtitle{
+
+}
+
+.intro-caption{
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+
+#intro .intro-info .btn-get-started, #intro .intro-info .btn-services {
+    background: #007bff;
+    border: 2px solid #007bff;
+    color: #fff;
+}
+
+#intro .intro-info .btn-get-started, #intro .intro-info .btn-services {
+    font-family: "Montserrat", sans-serif;
+    font-size: 14px;
+    font-weight: 600;
+    letter-spacing: 1px;
+    display: inline-block;
+    padding: 10px 32px;
+    border-radius: 50px;
+    transition: 0.5s;
+    margin: 0 20px 20px 0;
+    color: #fff;
+}
+
+#intro .intro-info .btn-get-started:hover, #intro .intro-info .btn-services:hover {
+    font-family: "Montserrat", sans-serif;
+    font-size: 14px;
+    font-weight: 600;
+    letter-spacing: 1px;
+    display: inline-block;
+    padding: 10px 32px;
+    border-radius: 50px;
+    transition: 0.5s;
+    margin: 0 20px 20px 0;
+    background: #ffffff;
+    border: 2px solid #ffffff;
+    color: #007bff;
+}
+
+.section-container {
+	padding-top:60px;
+	padding-bottom:60px;
+}
+
+.section-title {
+	color: rgb(0, 82, 204);
+	font-size: 40px;
+	font-stretch: 100%;
+
+}
+
+.section-caption {
+	padding-top: 40px;
+
+}
+
+.section-list {
+	padding-top: 40px;
+}
+
+.section-button {
+	margin-top:30px;
+	color: rgb(103, 170, 83);
+	background-color: rgb(255,255,255);
+	border-color: rgb(103, 170, 83);
+	border-radius: 25px;
+	align-content: center;
+	padding-top:10px;
+	padding-bottom:10px;
+}
+
+.shaded-background {
+	background-color: rgb(244, 252, 249);
+}
+
+
+.box{
+    padding:20px 0px;
+}
+
+.box-part{
+    border-radius:0;
+    padding:30px 10px;
+    margin:30px 0px;
+    text-align: left;
+}
+
+.box-part .title {
+	color: rgb(103, 170, 83);
+	padding-top: 5px;
+}
+
+.text{
+    margin:20px 0px;
+
+}
+
+.fas{
+     color:rgb(103, 170, 83);
+}
+
+
+
