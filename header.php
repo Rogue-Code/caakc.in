@@ -16,8 +16,10 @@
     <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
 
     <!--Custom CSS-->
-    <link rel="stylesheet" href="css/custom.css">
+   
     <link rel="stylesheet" type="text/css" href="css/service-hover.css">
+    <link rel="stylesheet" type="text/css" href="css/swiper.min.css">
+     <link rel="stylesheet" href="css/custom.css">
     <!--Font Awesome-->
      <script src="https://kit.fontawesome.com/d8d03cf67b.js" crossorigin="anonymous"></script>
 
@@ -49,7 +51,7 @@
     <nav class="navbar navbar-expand-lg navbar-light bg-light">
 
       <div class="container-fluid">
-        <a class="navbar-brand" href="index.html">
+        <a class="navbar-brand" href="index.php">
           <img class="img-fluid d-inline-block mr-1" src="img/logo.png" alt="CA Anand Choudhary and Co." height="10px">
         </a>
 

@@ -330,47 +330,51 @@
           <!--Row-->
           <div class="row section-list text-center">
 
-            <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
-              <div class="box-part text-center">
-                <i class="fas fa-briefcase fa-3x" aria-hidden="true"></i>         
-                <div class="title">
-                  <h6>CORPORATE TAX</h5>
-                </div>              
-                <div class="text ">
-                  <span>Lorem ipsum dolor sit amet, id quo eruditi eloquentiam. Assum decore te sed. Elitr scripta ocurreret qui ad.</span>
-                </div>                      
-              </div>
-            </div>   
-          
-            <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
-              <div class="box-part text-center">
-                <i class="fas fa-globe fa-3x" aria-hidden="true"></i>     
-                <div class="title">
-                  <h5>INTERNATIONAL TAX</h5>
-                </div>           
-                <div class="text">
-                  <span>Lorem ipsum dolor sit amet, id quo eruditi eloquentiam. Assum decore te sed. Elitr scripta ocurreret qui ad.</span>
-                </div>                     
-             </div>
-            </div> 
+            <!-- experimental -->
+    <div class="swiper-container">
+    <div class="swiper-wrapper">
+      <div class="swiper-slide">
+        <div class="imgBx">
+          <img src="img/our-team/kishan.jpg" height="400px">
+        </div>
+        <div class="details">
+          <h3>Kishan Chaudhary</h3>
+          <p>Web Developer</p>
+        </div>
+      </div>
+      
+      <div class="swiper-slide">
+        <div class="imgBx">
+          <img src="img/our-team/kishan.jpg" height="400px">
+        </div>
+        <div class="details">
+          <h3>Kishan Chaudhary</h3>
+          <p>Web Developer</p>
+        </div>
+      </div>
 
-            <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
-              <div class="box-part text-center">
-                <i class="fas fa-globe fa-3x" aria-hidden="true"></i>     
-                <div class="title">
-                  <h5>INTERNATIONAL TAX</h5>
-                </div>           
-                <div class="text">
-                  <span>Lorem ipsum dolor sit amet, id quo eruditi eloquentiam. Assum decore te sed. Elitr scripta ocurreret qui ad.</span>
-                </div>                     
-             </div>
-            </div> 
+      <div class="swiper-slide">
+        <div class="imgBx">
+          <img src="img/our-team/kishan.jpg" height="400px">
+        </div>
+        <div class="details">
+          <h3>Kishan Chaudhary</h3>
+          <p>Web Developer</p>
+        </div>
+      </div>
+      
+    </div>
+    <!-- Add Pagination -->
+    <div class="swiper-pagination"></div>
+  </div>
+    <!-- end of experiment -->
+         
+
+          
           </div>
        </div>
      </div>
     </section>
-
-    
 
   <!-- Sections -->
   <section>
