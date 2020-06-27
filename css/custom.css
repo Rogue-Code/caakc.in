@@ -128,6 +128,10 @@ i {
 	padding-bottom: 30px;
 }
 
+.intro-info a {
+    text-decoration: none;
+}
+
 #intro .intro-info .btn-get-started, #intro .intro-info .btn-services {
     background: #007bff;
     border: 2px solid #007bff;
@@ -283,4 +287,15 @@ footer p{
 
 footer p.footerContent {
     padding-top: 20px;
+}
+
+/****************************contact***************************/
+#maps{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+#maps iframe {
+    border-radius: 5px;
+    border: 2px solid black;
 }

@@ -95,22 +95,17 @@
       </div>
     </section>
 
-    
-
-
-
 
     <!-- Section - About-->
     <section id="about">
       <div class="container-fluid">
-        
-        <div class="container section-container">
+          <div class="container section-container">
         <!--Row-->
-        <div class="section-title">
-          <div class="col-12">
-            ABOUT US
+          <div class="section-title">
+            <div class="col-12">
+              ABOUT US
+            </div>
           </div>
-        </div>
 
         <!--Row-->
         <div class="row section-caption">
@@ -154,110 +149,164 @@
           </div>
 
           <!--Row-->
-          <div class="row section-list text-center">
-
-            <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12">
-              <div class="box-part text-center">
-                <i class="fas fa-briefcase fa-3x" aria-hidden="true"></i>         
-                <div class="title">
-                  <h6>CORPORATE TAX</h5>
-                </div>              
-                <div class="text default">
-                  <span>Lorem ipsum dolor sit amet, id quo eruditi eloquentiam. Assum decore te sed. Elitr scripta ocurreret qui ad.</span>
-                </div>                      
-              </div>
-            </div>   
-          
-            <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12">
-              <div class="box-part text-center">
-                <i class="fas fa-globe fa-3x" aria-hidden="true"></i>     
-                <div class="title">
-                  <h5>INTERNATIONAL TAX</h5>
-                </div>           
-                <div class="text default">
-                  <span>Lorem ipsum dolor sit amet, id quo eruditi eloquentiam. Assum decore te sed. Elitr scripta ocurreret qui ad.</span>
-                </div>                     
-             </div>
-            </div>   
-          
-            <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12">
-              <div class="box-part text-center">
-                <i class="fas fa-rupee-sign fa-3x" aria-hidden="true"></i>            
-                <div class="title">
-                  <h5>GST</h5>
+          <!-- experimental  -->
+      <section class="e-services pb-5">
+        <div class="container">
+          <div class="row">
+            <div class="col-md-4 col-sm-6 text-center">
+              <div class="box">
+                <div class="avtar">
+                  <i class="fas fa-briefcase fa-3x" aria-hidden="true"></i>
                 </div>
-                <div class="text default">
-                  <span>Lorem ipsum dolor sit amet, id quo eruditi eloquentiam. Assum decore te sed. Elitr scripta ocurreret qui ad.</span>
-                </div>         
-             </div>
-            </div>   
-          
-            <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12">   
-              <div class="box-part text-center">
-                <i class="fas fa-bookmark fa-3x" aria-hidden="true"></i>  
-                <div class="title">
-                  <h5>CERTIFICATION</h5>
+                
+                <div class="box_content">
+                  <h3 class="title">CORPORATE TAX</h3>
+                  <span class="post">Lorem ipsum dolor sit amet, id quo eruditi eloquentiam. Assum decore te sed. Elitr scripta ocurreret qui ad.</span>
                 </div>
-                <div class="text default">
-                  <span>Lorem ipsum dolor sit amet, id quo eruditi eloquentiam. Assum decore te sed. Elitr scripta ocurreret qui ad.</span>
-                </div>      
-              </div>
-            </div>   
-          
-            <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12">  
-              <div class="box-part text-center">
-                <i class="fas fa-comments fa-3x" aria-hidden="true"></i>      
-                <div class="title">
-                  <h5>CONSULTING</h5>
-                </div>               
-                <div class="text default">
-                  <span>Lorem ipsum dolor sit amet, id quo eruditi eloquentiam. Assum decore te sed. Elitr scripta ocurreret qui ad.</span>
-                </div>                          
-              </div>
-            </div>   
-            
-            <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12">  
-              <div class="box-part text-center">
-                <i class="fas fa-eye fa-3x" aria-hidden="true"></i>      
-                <div class="title">
-                  <h5>AUDIT & ASSURANCE</h5>
-                </div>               
-                <div class="text default">
-                  <span>Lorem ipsum dolor sit amet, id quo eruditi eloquentiam. Assum decore te sed. Elitr scripta ocurreret qui ad.</span>
-                </div>                          
-              </div>
-            </div>   
 
-            <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12">  
-              <div class="box-part text-center">
-                <i class="fas fa-edit fa-3x" aria-hidden="true"></i>      
-                <div class="title">
-                  <h5>ACCOUNTING</h5>
-                </div>               
-                <div class="text default">
-                  <span>Lorem ipsum dolor sit amet, id quo eruditi eloquentiam. Assum decore te sed. Elitr scripta ocurreret qui ad.</span>
-                </div>                         
-              </div>
-            </div>   
+                <ul class="icons">
+                  <li><a href="" class="btn btn-success">Know More</a></li>
+                </ul>
 
-            <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12">  
-              <div class="box-part text-center">
-                <i class="fas fa-random fa-3x" aria-hidden="true"></i>      
-                <div class="title">
-                  <h5>MERGERS/ACQUISITIONS</h5>
-                </div>               
-                <div class="text default">
-                  <span>Lorem ipsum dolor sit amet, id quo eruditi eloquentiam. Assum decore te sed. Elitr scripta ocurreret qui ad.</span>
-                </div>                          
               </div>
-            </div> 
-          
+            </div>
+
+            <div class="col-md-4 col-sm-6 text-center">
+              <div class="box">
+                <div class="avtar">
+                  <i class="fas fa-globe fa-3x" aria-hidden="true"></i> 
+                </div>
+                
+                <div class="box_content">
+                  <h3 class="title">INTERNATIONAL TAX</h3>
+                  <span class="post">Lorem ipsum dolor sit amet, id quo eruditi eloquentiam. Assum decore te sed. Elitr scripta ocurreret qui ad.</span>
+                </div>
+
+                <ul class="icons">
+                  <li><a href="" class="btn btn-success">Know More</a></li>
+                </ul>
+
+              </div>
+            </div>
+
+            <div class="col-md-4 col-sm-6 text-center">
+              <div class="box">
+                <div class="avtar">
+                <i class="fas fa-rupee-sign fa-3x" aria-hidden="true"></i>
+                </div>
+                
+                <div class="box_content">
+                  <h3 class="title">GST</h3>
+                  <span class="post">Lorem ipsum dolor sit amet, id quo eruditi eloquentiam. Assum decore te sed. Elitr scripta ocurreret qui ad.</span>
+                </div>
+
+                <ul class="icons">
+                  <li><a href="" class="btn btn-success">Know More</a></li>
+                </ul>
+
+              </div>
+            </div>
+
+            <div class="col-md-4 col-sm-6 text-center">
+              <div class="box">
+                <div class="avtar">
+                  <i class="fas fa-bookmark fa-3x" aria-hidden="true"></i> 
+                </div>
+                
+                <div class="box_content">
+                  <h3 class="title">CERTIFICATION</h3>
+                  <span class="post">Lorem ipsum dolor sit amet, id quo eruditi eloquentiam. Assum decore te sed. Elitr scripta ocurreret qui ad.</span>
+                </div>
+
+                <ul class="icons">
+                  <li><a href="" class="btn btn-success">Know More</a></li>
+                </ul>
+
+              </div>
+            </div>
+
+            <div class="col-md-4 col-sm-6 text-center">
+              <div class="box">
+                <div class="avtar">
+                  <i class="fas fa-comments fa-3x" aria-hidden="true"></i>
+                </div>
+                
+                <div class="box_content">
+                  <h3 class="title">CONSULTING</h3>
+                  <span class="post">Lorem ipsum dolor sit amet, id quo eruditi eloquentiam. Assum decore te sed. Elitr scripta ocurreret qui ad.</span>
+                </div>
+
+                <ul class="icons">
+                  <li><a href="" class="btn btn-success">Know More</a></li>
+                </ul>
+
+              </div>
+            </div>
+
+            <div class="col-md-4 col-sm-6 text-center">
+              <div class="box">
+                <div class="avtar">
+                  <i class="fas fa-eye fa-3x" aria-hidden="true"></i> 
+                </div>
+                
+                <div class="box_content">
+                  <h3 class="title">AUDIT &AMP; ASSURANCE</h3>
+                  <span class="post">Lorem ipsum dolor sit amet, id quo eruditi eloquentiam. Assum decore te sed. Elitr scripta ocurreret qui ad.</span>
+                </div>
+
+                <ul class="icons">
+                  <li><a href="" class="btn btn-success">Know More</a></li>
+                </ul>
+
+              </div>
+            </div>
+
+            <div class="col-md-6 col-sm-6 text-center">
+              <div class="box">
+                <div class="avtar">
+                  <i class="fas fa-edit fa-3x" aria-hidden="true"></i>
+                </div>
+                
+                <div class="box_content">
+                  <h3 class="title">Accounting</h3>
+                  <span class="post">Lorem ipsum dolor sit amet, id quo eruditi eloquentiam. Assum decore te sed. Elitr scripta ocurreret qui ad.</span>
+                </div>
+
+                <ul class="icons">
+                  <li><a href="" class="btn btn-success">Know More</a></li>
+                </ul>
+
+              </div>
+            </div>
+
+            <div class="col-md-6 col-sm-6 text-center">
+              <div class="box">
+                <div class="avtar">
+                  <i class="fas fa-random fa-3x" aria-hidden="true"></i>
+                </div>
+                
+                <div class="box_content">
+                  <h3 class="title">MERGER/ACQUISITIONS</h3>
+                  <span class="post">Lorem ipsum dolor sit amet, id quo eruditi eloquentiam. Assum decore te sed. Elitr scripta ocurreret qui ad.</span>
+                </div>
+
+                <ul class="icons">
+                  <li><a href="" class="btn btn-success">Know More</a></li>
+                </ul>
+
+              </div>
+            </div>
+
           </div>
+        </div>
+      </section>
+    <!-- end of experiment -->
+
        </div>
      </div>
     </section>
 
-
+    
     <!-- Sections - Meet the Team-->
     <section id="team">
       <div class="container-fluid">
@@ -321,38 +370,7 @@
      </div>
     </section>
 
-    <!-- Sections - Meet the Team-->
-    <section id="team">
-      <div class="container-fluid">
-        
-        <div class="container section-container">
-
-          <!--Row-->
-          <div class="row section-title text-center">
-            <div class="col-12">
-              CONTACT US
-            </div>
-          </div>
-
-          <!--Row-->
-          <div class="row section-caption text-center">
-            <div class="col-12 default">
-              We work for your success.
-            </div>
-          </div>
-
-          <!--Row-->
-          <div class="row section-caption text-center">
-            <div class="col-12 default">
-              We work for your success.
-            </div>
-          </div>
-
-       </div>
-     </div>
-    </section>
-
-    <footer></footer>>
+    
 
   <!-- Sections -->
   <section>

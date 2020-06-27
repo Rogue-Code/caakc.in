@@ -1,2 +1,8 @@
 Hello Co-Developer, today is 27th June. These are few things I learnt today:
 1. What are ARIA-labels?
+2. Why container-fluid class in used in Bootstrap?
+
+3. The card hover effect  for services
+https://www.youtube.com/watch?v=epjbRKIBhQU
+
+4. 
