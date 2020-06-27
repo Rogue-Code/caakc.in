@@ -26,7 +26,7 @@
 
   <body>
     <!-- Top Bar -->
-    <section class="bg-primary" id="top-bar">
+    <section id="top-bar">
       <div class="container">
         <div class="row">
           <div class="col-md-8">
