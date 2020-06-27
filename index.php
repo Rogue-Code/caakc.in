@@ -1,38 +1,4 @@
-<!doctype html>
-<html lang="en">
-  <head>
-    <!-- Required meta tags -->
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-
-    <!--Favicon-->
-    <link rel="icon" type="image/png" href="img/ca_logo.png">
-
-    <!-- Bootstrap CSS -->
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
-    <link href="https://fonts.googleapis.com/css?family=Roboto:300" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet">
-
-    <!--Custom CSS-->
-    <link rel="stylesheet" href="css/custom.css">
-
-    <!--Font Awesome-->
-    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.2/css/all.css" integrity="sha384-oS3vJWv+0UjzBfQzYUhtDYW+Pj2yciDJxpsK1OYPAYjqT085Qq/1cq5FLXAZQ7Ay" crossorigin="anonymous">
-
-
-    <title>Anand K. Choudhary & Co.</title>
-  </head>
-
-  <body>
-
-
-    <!-- Navigation Bar -->
-    <nav class="navbar navbar-expand-lg navbar-light bg-light fixed-top">
-      
-      <div class="container-fluid">
-        <a class="navbar-brand" href="#">
-          <img class="img-fluid d-inline-block mr-1" src="img/logo.png" alt="" height="10px">
-        </a>
+<?php include 'header.php' ?>
 
         <button class="navbar-toggler " type="button" data-toggle="collapse" data-target="#navbarTogglerDemo02" aria-controls="navbarTogglerDemo02" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
@@ -41,19 +7,19 @@
         <div class="collapse navbar-collapse" id="navbarTogglerDemo02">
           <ul class="navbar-nav ml-auto mt-2 mt-lg-0 text-right">
             <li class="nav-item ">
-              <a class="nav-link" href="#">Home</a>
+              <a class="nav-link" href="index.php">Home</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="#about">About</a>
+              <a class="nav-link" href="about.php">About</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="#services">Services</a>
+              <a class="nav-link" href="services.php">Services</a>
             </li>
              <li class="nav-item">
-              <a class="nav-link" href="#services">Team</a>
+              <a class="nav-link" href="team.php">Team</a>
             </li>
              <li class="nav-item">
-              <a class="nav-link" href="#services">Contact</a>
+              <a class="nav-link" href="contact.php">Contact</a>
             </li>
           </ul>
         </div>
@@ -107,43 +73,27 @@
   
 
    <!-- Section - Intro -->
-   <section id="intro" class="clearfix" style="background-image: linear-gradient(45deg, rgba(22,34,42,0.1) 0%, rgba(58,96,115,0.8) 100%), url(img/plain-0066CC.svg)">
+   <section id="intro" class="clearfix" style="">
       <div class="container">
 
-        <div class="intro-img">
-          <img src="img/intro-img.svg" alt="" class="img-fluid">
+        <div class="row">
+          <div class="intro-img col-md-6">
+            <img src="img/intro-img.svg" alt="Chartered Accountants Handling Your Business" class="img-fluid">
+          </div>
+
+          <div class="intro-info col-md-6">
+            <h1 class="intro-title text-light">
+                   ANAND K. <br> CHOUDHARY & CO.</h1> 
+            <h5 class="intro-subtitle display-6 text-light">
+                  Your Accounting Professionals</h5>
+            <p class="intro-caption default text-light">
+                    Providing specialized accounting support and services you need, allowing you to focus on their businesses and personal lives since 2018.</p> 
+            <a href="#about" class="btn-get-started scrollto">
+            Get Started</a>
+            <a href="#services" class="btn-services scrollto">
+            Our Services</a>
+          </div>
         </div>
-
-        <div class="intro-info">
-          <div class="row align-items-center">
-            <div class="col-12 col-md-12 col-lg-12 aos-init aos-animate" data-aos="fade-up">
-              <h1 class="intro-title text-light">
-                 ANAND K. <br> CHOUDHARY & CO.
-              </h1> 
-            </div>
-          </div>
-
-          <div class="row align-items-center">
-            <div class="col-12 col-md-12 col-lg-12 aos-init aos-animate" data-aos="fade-up">
-              <h5 class="intro-subtitle display-6 text-light">
-                Your Accounting Professionals <br>
-              </h5>
-            </div>
-          </div>
-
-          <div class="row align-items-center">
-            <div class="col-12 col-md-12 col-lg-12 aos-init aos-animate" data-aos="fade-up">
-              <p class="intro-caption default text-light">
-                  Providing specialized accounting support and services you need, allowing you to focus on their businesses and personal lives since 2018. <br>
-              </p> 
-              <a href="#about" class="btn-get-started scrollto">Get Started</a>
-              <a href="#services" class="btn-services scrollto">Our Services</a>
-            </div>
-            <div>
-              
-            </div>
-          </div>
-        </div> 
       </div>
     </section>
 
@@ -158,7 +108,7 @@
         
         <div class="container section-container">
         <!--Row-->
-        <div class="row section-title">
+        <div class="section-title">
           <div class="col-12">
             ABOUT US
           </div>
@@ -434,5 +384,9 @@
     <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+    <!-- AOS init -->
+    <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
+    <script>AOS.init();</script>
+
   </body>
 </html>

@@ -1,3 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;300;400;500;600&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
 body {
 	font-family: 'Montserrat', 'Roboto' ,sans-serif;
 }
@@ -7,6 +15,9 @@ body .default {
 	font-size: 15px;
 }
 
+i {
+    color: black;
+}
 
 /**
 .jumbotron {
@@ -21,9 +32,35 @@ body .default {
 }
 **/
 
+#top-bar {
+    /*display: flex;*/
+    height: 6vh;
+    color: white;
+    font-size: 0.8em;
+    font-weight: 400;
+}
+
+#top-bar .container {
+    /*display: flex;*/
+    /*flex-direction: row;*/
+    padding-top: 8px;
+    height: 100%;
+    align-items: center;
+}
+
+#top-bar i {
+    color: white !important;
+    padding-right: 6px;
+}
+
+.navbar {
+    display: flex;
+    flex-direction: column;
+}
+
 .navbar-brand
 {
-    position: relative;
+    /*position: relative;*/
     background: url(img/logo.png);
     width: 300px;
     height: 70px;
@@ -39,18 +76,26 @@ body .default {
 	font-weight:bold;
 }
 
+#navCrumb .breadcrumb{
+    background-color: black;
+    height: 10vh;
+}
+/*****************************Home**********************************/
 #intro .intro-img {
-    width: 50%;
-    float: right;
+    /*width: 50%;*/
+    /*float: right;*/
 }
 
 #intro {
-	padding: 200px;
+    background-image: linear-gradient(45deg, rgba(22,34,42,0.1) 0%, rgba(58,96,115,0.8) 100%), url(img/plain-0066CC.svg);
+	min-height: 70vh;
+    padding-top: 160px;
+    padding-bottom: 40px;
 }
 
 #intro .intro-info {
-    width: 50%;
-    float: left;
+    /*width: 50%;*/
+    /*float: left;*/
 }
 
 .intro-title{
@@ -100,6 +145,8 @@ body .default {
     color: #007bff;
 }
 
+
+/*******************************about-us************************/
 .section-container {
 	padding-top:60px;
 	padding-bottom:60px;
@@ -107,9 +154,8 @@ body .default {
 
 .section-title {
 	color: rgb(0, 82, 204);
-	font-size: 40px;
-	font-stretch: 100%;
-
+	font-size: 3em;
+	/*font-stretch: 100%;*/
 }
 
 .section-caption {
@@ -161,6 +207,8 @@ body .default {
 .fas{
      color:rgb(103, 170, 83);
 }
+
+/****************************Team******************************/
 
 
 
