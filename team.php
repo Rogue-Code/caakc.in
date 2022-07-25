@@ -40,11 +40,11 @@
       <!-- Anand K Choudhary -->
       <div class="row">
         <div class="col-md-2">
-          <img src="img/our-team/kishan.jpg" height="200px" width="150px">
+          <img src="img/our-team/anand.jpg" height="200px" width="150px">
         </div>
         <div class="col-md-10">
-          <h2 class="mt-3">CA Anand K Choudhary (B.Com., A.C.A.)</h2>
-          <h3>Partner</h3>
+          <h2 class="mt-3">CA Anand K Choudhary (B.Com., F.C.A.)</h2>
+          
           <p>Mr. Anand Choudhary was enrolled as a member of
               ICAI in 2015. He completed his graduation from
               Mumbai University in 2013.  His ability to understand the
@@ -53,32 +53,50 @@
               specialise in conducting statutory audits of companies.</p>
         </div>
       </div>
+      <!--Snehal Savani -->
+      <div class="row">
+          <div class="col-md-2">
+               <img src="img/our-team/download.png"  height="200px" width="150px">
+</div>
+      <div class="col-md-10">
+         <h2 class="mt-3">CA Snehal H. Savani(B.com., F.C.A.)</h2>
+
+         <p>Mrs. Snehal H. Savani is a qualified Chartered Accountant and was enrolled as a
+           member od ICAI in 2019.She has completed her graduation from Mumbai University in
+           2015.She joinned the firm since 2 years. Her skills include Generally Accepted 
+           Accounting Principles (GAAP). statutory Auditing. Income Tax, and Financial Accounting.
+           She is an accomplished executive with a strong passion for building trusting
+           relationship and adopting "hands-on" approach to resolve business,financial and accounting
+           challenges.</p>
+</div>
+</div>
+           
       <!-- Jayesh Naddar -->
       <div class="row">
         <div class="col-md-2">
-          <img src="img/our-team/kishan.jpg" height="200px" width="150px">
+          <img src="img/our-team/jayesh.jpg" height="200px" width="150px">
         </div>
         <div class="col-md-10">
           <h2 class="mt-3">Jayesh Kannan V. Nadar (B.Com.)</h2>
-          <h3>Partner</h3>
+          
           <p>Mr. Jayesh Nadar completed his graduation from
               Mumbai University in 2013. He leads the Direct tax
               practice of the firm. He has strong fundamental
               knowledge in Corporate &amp; Individual taxation. He has
               a vast experience in handling direct tax and
               accounting assignments of Construction companies,
-              Share trading companies, societies, trusts, partnership
+              Share trading companies, societies, trusts, Associatesship
               firms, LLPs, HNIs, etc. </p>
         </div>
       </div>
       <!-- Deepesh Fatak -->
       <div class="row">
         <div class="col-md-2">
-          <img src="img/our-team/kishan.jpg" height="200px" width="150px">
+          <img src="img/our-team/deepesh.jpg" height="200px" width="150px">
         </div>
         <div class="col-md-10">
           <h2 class="mt-3">Deepesh R. Fatak (B.Com.)</h2>
-          <h3>Partner</h3>
+          
           <p>Mr. Deepesh Fatak completed his graduation from
             Mumbai University in 2013. He leads the Indirect tax
             practice of the firm.  His in-depth
@@ -91,7 +109,9 @@
             Private Limited, Maharashtra State OBC Finance. </p>
         </div>
       </div>
+      <br></br>
     </div>
+    
   </main>
 
 <?php include 'footer.php' ?>
