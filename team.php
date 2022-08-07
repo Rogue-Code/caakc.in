@@ -56,7 +56,7 @@
       <!--Snehal Savani -->
       <div class="row">
           <div class="col-md-2">
-               <img src="img/our-team/download.png"  height="200px" width="150px">
+               <img src="img/our-team/snehal.png"  height="200px" width="150px">
 </div>
       <div class="col-md-10">
          <h2 class="mt-3">CA Snehal H. Savani(B.com., F.C.A.)</h2>

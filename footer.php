@@ -20,7 +20,7 @@
 			</div>
 
 			<div class="col-md-4">
-				<h4>Partner's Contact</h4>
+				<h4>Associate's Contact</h4>
 				<hr>
 				<ul>
 					<li>

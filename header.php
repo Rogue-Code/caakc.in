@@ -12,14 +12,15 @@
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
     <link href="https://fonts.googleapis.com/css?family=Roboto:300" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet">
-    <!-- Animate On Scroll -->
-    <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
-
-    <!--Custom CSS-->
+    
+    <!-- Vendor CSS Files -->
+  <link href="assets/vendor/aos/aos.css" rel="stylesheet">
+  <link href="assets/vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
+  <link href="assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
    
     <link rel="stylesheet" type="text/css" href="css/service-hover.css">
     <link rel="stylesheet" type="text/css" href="css/swiper.min.css">
-     <link rel="stylesheet" href="css/custom.css">
+     <link rel="stylesheet" type="text/css" href="css/custom.css">
     <!--Font Awesome-->
      <script src="https://kit.fontawesome.com/d8d03cf67b.js" crossorigin="anonymous"></script>
 
